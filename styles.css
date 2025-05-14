@@ -473,7 +473,7 @@ a{
 
   #project0{
      margin-left:120px;
-     
+
     background-image: url(./images/projects/learnsphere-folioimage.png);
   }
 
@@ -544,6 +544,9 @@ a{
     }
     #project4 {
       margin-left: 0;
+    }
+    #project5{
+      margin-right: 0;
     }
     .project-skill-container {
       width: 100%;
